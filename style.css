@@ -19,6 +19,7 @@ body {
 }
 
 .display {
+    position: relative;
     display: flex;
     align-items: center;
     background-color: rgba(222, 224, 243, 0.927);
